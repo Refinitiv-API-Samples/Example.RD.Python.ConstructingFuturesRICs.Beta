@@ -1,4 +1,4 @@
-# Article.RD.Python.Reconstructing.RICs.for.expired.futures.contracts
+# Reconstructing RICs for expired Futures contracts
 
 ## Overview
 
